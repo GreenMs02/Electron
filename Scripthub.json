@@ -6,16 +6,21 @@
     
     "Owl Hub": {
        "image": "https://i.imgur.com/xXSlkL7.png",
-       "script": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt",
+       "script": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
     },
     
     "Infinite Yield FE": {
        "image": "https://i.imgur.com/5Zz6XP3.png",
-       "script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+       "script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
     
     "FE Animation": {
        "image": "https://i.imgur.com/1gXxHRN.png",
-       "script": "https://pastebin.com/raw/pavgA3S9",
+       "script": "https://pastebin.com/raw/pavgA3S9"
     },
+    
+    "Zyrex Hub": {
+      "image": "https://i.imgur.com/2toY7Gk.png",
+      "script": "https://raw.githubusercontent.com/Denverrz/scripts/master/Zyrex_Hub.lua"
+    }
 }
