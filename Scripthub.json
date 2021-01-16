@@ -23,9 +23,4 @@
       "image": "https://cdn.discordapp.com/attachments/469831501215694852/744070477697384458/unknown.png",
       "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/Dex.lua"
     },
-    
-    "Save Game": {
-      "image": "https://cdn.discordapp.com/attachments/469831501215694852/744073533763747870/uwuwuw.png",
-      "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/Savegame.lua"
-    }
 }
