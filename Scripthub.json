@@ -8,6 +8,11 @@
        "image": "https://cdn.discordapp.com/attachments/469831501215694852/743740254422433832/YIELF.png",
        "script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
+
+    "FE Building": {
+        "image": "https://cdn.discordapp.com/icons/709421463127589024/a_a523bb3a724c9adfd5815ebfe562c9f3.gif",
+        "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/febuilding.lua"
+    },
     
     "Owl Hub": {			
        "image": "https://i.imgur.com/xXSlkL7.png",			
@@ -23,4 +28,6 @@
       "image": "https://cdn.discordapp.com/attachments/469831501215694852/744070477697384458/unknown.png",
       "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/Dex.lua"
     },
+
+
 }
