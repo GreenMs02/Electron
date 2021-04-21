@@ -5,12 +5,12 @@
     },
         
     "Infinite Yield FE": {
-       "image": "https://cdn.discordapp.com/attachments/469831501215694852/743740254422433832/YIELF.png",
+       "image": "https://i.imgur.com/806u7Dq.png",
        "script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
     },
 
     "Impulse Hub": {
-      "image": "https://cdn.discordapp.com/attachments/760412369854922762/810497416029011989/cropped-impulse-icon1200x-1.png",
+      "image": "https://i.imgur.com/lZJKqbm.png",
       "script": "http://impulse-hub.xyz/ImpulseHub"
     },
     
@@ -20,17 +20,17 @@
     },
     
     "Dark Dex": {
-      "image": "https://cdn.discordapp.com/attachments/469831501215694852/744070477697384458/unknown.png",
+      "image": "https://i.imgur.com/qBjUgUH.jpg",
       "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/Dex.lua"
     },
     
      "FE Building": {
-        "image": "https://gdurl.com/f8-d/download",
+        "image": "https://i.imgur.com/brYGIME.png",
         "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/febuilding.lua"
     },
     
     "Dark Hub": {
-        "image": "https://gdurl.com/wvoU/download",
+        "image": "https://i.imgur.com/qBjUgUH.jpg",
         "script": "https://darkhub.xyz/script"
     },
 
