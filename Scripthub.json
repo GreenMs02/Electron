@@ -33,5 +33,10 @@
         "image": "https://i.imgur.com/qBjUgUH.jpg",
         "script": "https://darkhub.xyz/script"
     },
+    
+     "Nullware Hub": {
+        "image": "https://i.imgur.com/wp0ydM5.png",
+        "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/racistnullwarehub.lua"
+    },
 
 }
