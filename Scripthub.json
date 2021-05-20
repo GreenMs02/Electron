@@ -14,11 +14,6 @@
       "script": "http://impulse-hub.xyz/ImpulseHub"
     },
     
-    "Zyrex Hub": {
-      "image": "https://i.imgur.com/2toY7Gk.png",
-      "script": "https://raw.githubusercontent.com/NotZyrex/Zyrex-Hub/master/Main.lua"
-    },
-    
     "Dark Dex": {
       "image": "https://i.imgur.com/XGYbBfa.png",
       "script": "https://raw.githubusercontent.com/GreenMs02/Electron/master/Dex.lua"
